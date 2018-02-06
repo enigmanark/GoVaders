@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/alien.png-aebe7b13c76e23e1821a816a164a3f66.stex"
+path="res://.import/tiling-sprite.jpg-0ddd3cebf56e39e7a6566e64a52fe37d.stex"
 
 [deps]
 
-source_file="res://alien.png"
-source_md5="7ce7f3a38577e09c5acd62e7962681b9"
+source_file="res://Art/tiling-sprite.jpg"
+source_md5="cf870bda9041682fcddf180f3a2df65b"
 
-dest_files=[ "res://.import/alien.png-aebe7b13c76e23e1821a816a164a3f66.stex" ]
-dest_md5="7a7a4e0665a23f853e3e20459cc74ee1"
+dest_files=[ "res://.import/tiling-sprite.jpg-0ddd3cebf56e39e7a6566e64a52fe37d.stex" ]
+dest_md5="123fb4c0cac6b4e0c8a08e6e25cc7eee"
 
 [params]
 

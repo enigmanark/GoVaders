@@ -7,7 +7,9 @@
 
 script = ExtResource( 1 )
 world_node_path = null
+camera_path = null
 speed = null
+scrollSpeed = null
 
 [node name="Area2D" type="Area2D" parent="." index="0"]
 

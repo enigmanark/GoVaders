@@ -1,13 +1,13 @@
 [gd_scene load_steps=5 format=2]
 
 [ext_resource path="res://Game/Alien.gd" type="Script" id=1]
-[ext_resource path="res://alien.png" type="Texture" id=2]
+[ext_resource path="res://Art/alien.png" type="Texture" id=2]
 
 [sub_resource type="Curve2D" id=1]
 
 bake_interval = 5.0
 _data = {
-"points": PoolVector2Array( 0, 0, 0, 0, 16.2247, 8.15751, 0, 0, 0, 0, 392.102, 112.51, 0, 0, 0, 0, -284.562, 239.644, 0, 0, 0, 0, 398.217, 370.879, 0, 0, 0, 0, -276.409, 454.951, 0, 0, 0, 0, -1.25972, 551.327, 0, 0, 0, 0, -5.33599, 680.511 )
+"points": PoolVector2Array( 0, 0, 0, 0, 16.2247, 8.15751, 0, 0, 0, 0, 392.102, 112.51, 0, 0, 0, 0, -284.562, 239.644, 0, 0, 0, 0, 398.217, 370.879, 0, 0, 0, 0, -276.409, 454.951, 0, 0, 0, 0, 32, 544, 0, 0, 0, 0, 32, 704 )
 }
 
 [sub_resource type="Animation" id=2]
@@ -51,7 +51,7 @@ __meta__ = {
 [node name="PathFollow2D" type="PathFollow2D" parent="Path2D" index="0"]
 
 position = Vector2( 16.2247, 8.15751 )
-offset = 2854.46
+offset = 0.0
 h_offset = 0.0
 v_offset = 0.0
 rotate = false
