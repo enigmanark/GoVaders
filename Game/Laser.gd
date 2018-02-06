@@ -10,7 +10,6 @@ func _process(delta):
 	var velocity = Vector2()
 	velocity = (direction * speed) * delta
 	position += velocity
-	print(position)
 
 func _on_VisibilityNotifier2D_viewport_exited( viewport ):
 	self.queue_free()

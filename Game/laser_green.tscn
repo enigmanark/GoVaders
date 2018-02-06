@@ -3,9 +3,9 @@
 [ext_resource path="res://Game/Laser.gd" type="Script" id=1]
 [ext_resource path="res://Art/green_laser.png" type="Texture" id=2]
 
-
-
-[node name="Laser" type="Node2D" index="0"]
+[node name="Laser" type="Node2D" groups=[
+"PlayerFire",
+]]
 
 script = ExtResource( 1 )
 

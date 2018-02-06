@@ -2,7 +2,7 @@ extends Node2D
 
 export (NodePath) var world_node_path
 export (int) var speed
-onready var greenLaser = preload("res://laser_green.tscn")
+onready var greenLaser = preload("res://Game/laser_green.tscn")
 
 func _ready():
 	pass
